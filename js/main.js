@@ -12,7 +12,7 @@ $(document).ready(function(e){
 	// console.log($('#item1_button'));
 	// console.log($('#item1 h3'));
 
-	//notes when an attribute is clicked  by user
+	//notes when an attribute is clicked by user
 	$('#item1_button').click(function(e){
 		alert("clicked");
 	});
