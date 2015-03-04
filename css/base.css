@@ -4,9 +4,59 @@ body {
 	padding:20px;
 }
 
+<<<<<<< HEAD
 .test_item {
 	background-color: grey;
 	padding:10px;
 	margin-bottom:10px;
 	border-radius: 5px;
+=======
+h1 {
+	font-size: 80px;
+	color:white;
+}
+
+div#wrapper {
+	background-color:grey;
+	padding:20px;
+	margin-bottom:10px;
+}
+
+.input_block {
+	background-color:white;
+	padding:20px;
+	margin-bottom:10px;	
+}
+
+label {
+	color:black;
+	padding-right:10px;
+	display:inline-block;
+	font-size:30px;
+	width:200px;
+}
+
+input {
+	font-size: 25px;
+	padding:10px;
+	display:inline-block;
+}
+
+#result input {
+	background-color:grey;
+}
+
+button {
+	padding:20px 50px;
+}
+
+.col {
+	float:left;
+	width:30%;
+	padding:10px;
+}
+
+.clear {
+	clear:both;
+>>>>>>> 1daa40f204c4ece9af7f6163854b9cc1ca1d64a1
 }
